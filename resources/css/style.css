@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #000;
+  text-align: center;
+}
+
+header h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  margin: 2rem auto;
+}
+
+header a {
+  color: aquamarine;
+  font-size: 16px;
+}
