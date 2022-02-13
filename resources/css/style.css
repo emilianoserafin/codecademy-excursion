@@ -18,7 +18,30 @@ header h1 {
   margin: 2rem auto;
 }
 
-header a {
+.link {
   color: aquamarine;
   font-size: 16px;
+  margin: 1rem auto;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  margin: 2rem auto;
+}
+
+#mid p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  margin: 1rem auto;
+}
+#mark {
+  text-align: right;
+  color: gray;
+  padding: 1rem;
+  font-family: Verdana;
+  font-size: 21px;
 }
