@@ -45,3 +45,8 @@ h2 {
   font-family: Verdana;
   font-size: 21px;
 }
+
+footer img {
+  margin: 0 auto;
+  padding: 1rem;
+}
